@@ -397,8 +397,6 @@ Aynur se pone en pie. McCloskey. Ese apellido me suena a dentadura postiza cayen
 
 —A traerte ese café, a ver si te centras y esa materia química es capaz de hablar como una persona.
 
-# New section
-
 # Domingo por la tarde
 
 > PARAGRAPHS
