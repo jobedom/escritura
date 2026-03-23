@@ -27,6 +27,26 @@ Dejando a un lado los motivos, atengámonos.
 
 A la manera correcta de llorar, entendiendo por esto un llanto que no ingrese en el escándalo.
 
+# La mandanga
+
+> ITALIC
+
+La constricción del lazo obstruye en primera instancia las venas yugulares, cuyo colapso requiere una presión mecánica de apenas dos kilogramos. El flujo arterial continúa bombeando sangre hacia la cavidad craneal sin vía de retorno venoso, provocando una congestión facial inmediata y un aumento masivo de la presión intracraneal. Con cinco kilogramos de tracción, las arterias carótidas se ocluyen, deteniendo de forma drástica el suministro de oxígeno y glucosa al tejido encefálico. En ausencia de perfusión, el encéfalo agota sus reservas residuales de ATP aeróbico, manifestando fotopsia, manifestada como una saturación visual blanquecina generalizada, y acúfenos severos en forma de estática auditiva. En este umbral crítico, antes de la anulación del córtex, el sistema límbico reacciona ante la hipoxia aguda con una descarga masiva de endorfinas y encefalinas. Este flujo de opioides endógenos satura los receptores opioides mu, induciendo una analgesia profunda que disocia el pánico de la asfixia, mientras un repunte final de dopamina y serotonina genera una distorsión cognitiva de hiperclaridad. El sistema nervioso central interrumpe la recepción de estímulos nociceptivos periféricos mientras el metabolismo celular revierte a vías anaeróbicas, reduciendo la eficiencia energética y generando una acumulación tóxica de ácido láctico. Las membranas neuronales sufren una despolarización masiva por el fracaso de las bombas iónicas, liberando un exceso citotóxico de glutamato que acelera la degradación sináptica. Esta descarga eléctrica irregular desencadena contracciones musculares tónico-clónicas en las extremidades y la relajación involuntaria de los esfínteres vesical y anal. A nivel microvascular, la ruptura de la barrera de presión en la red capilar origina petequias en las conjuntivas oculares y en las serosas de las vísceras, evidenciando el colapso de la resistencia endotelial. La base de la lengua, desplazada mecánicamente, protruye entre los labios con una coloración cianótica mientras se establece una apnea irreversible. El miocardio mantiene una actividad eléctrica autónoma que deriva en bradicardia severa, exacerbada por la inhibición vagal del reflejo barorreceptor en el seno carotídeo. El encéfalo entra en un estado de coma isquémico donde las reservas de glucosa alcanzan el nivel cero. La hipoxia sostenida degrada los lípidos de las membranas celulares y provoca la lisis mitocondrial, marcando el inicio de la necrosis tisular estructural. Finalmente, el músculo cardíaco evoluciona de un ritmo arritmogénico a la asistolia clínica, llegando al paro cardíaco total.
+
+****
+
+Tal vez soy una polilla que sueña ser un hombre. Tal vez soy un hombre que sueña ser una polilla que sueña ser un hombre. Es mejor no asomarse a ese pozo sin fondo. Es mejor contemplar el paisaje blanquecino y polvoriento.
+
+Mis sueños son cada vez más intensos. El de anoche todavía reverbera, aunque ya es mediodía, por encima de la música crujiente de la radio AM de la furgoneta. Llevo el volumen al máximo y aun así.
+
+En el sueño aparecía una vieja de pelo blanco, desnuda, que me enseñaba con gran seriedad y de forma minuciosa su abdomen cóncavo, sus extremidades momificadas, todo el cuerpo del color del cuero viejo. Consumida por la sal, tenía las cuencas de los ojos vacías y un rictus eterno. Mientras me mostraba su cuerpo reseco, yo me flagelaba por encima de los hombros con una disciplina de cáñamo y me gustaba. Aquella vieja me gritaba entonces que tenía sed, mucha sed, que le llevara agua, por mis muertos, que se moría de sed, que la encontraría debajo del puente metálico. Su voz se iba volviendo borboteante hasta que de su boca chorreaba un hilo continuo de limo parduzco que se deslizaba por el mentón. Olía a habitación que lleva cerrada muchos años. Sed, tengo sed, dame agua, desgraciado, tengo tanta sed. Sus gruñidos eran tan graves que más que oírlos los sentía en el cuerpo. Se golpeaba el pecho con la mano abierta y me salpicaba con aquella pus negra. Ahí me clavé las uñas y desperté.
+
+Aparco a una distancia prudente. Con los neumáticos normales no me atrevo a entrar más.
+
+Hacía tiempo que no venía por aquí. La sal ha avanzado tanto que me resultaría imposible llegar corriendo al límite antiguo sin detenerme a recuperar el resuello. El poste bicolor apenas sobresale unos centímetros. Hay mucha más sal en suspensión aquí que en la zona norte, de modo que me aprieto la correa de las gafas hasta que el borde inferior se me clava en los pómulos. Duele. Mejor así.
+
+Me subo el pañuelo para taparme la boca y la nariz. Miro hacia el horizonte blanco y, aunque el día está encapotado, la luz es tan intensa que tengo que entornar los ojos a pesar de las gafas. Ahí está el tramo del antiguo puente de hierro, emergiendo de la sal como una rampa a ninguna parte. Según me decía la vieja anoche, la encontraré justo debajo.
+
 # Mujer, maleta, terraplén
 
 En GitHub. Yay!
@@ -72,26 +92,6 @@ Me coloco la tira de nacle entre el labio superior y la encía. Cierro los ojos.
 Inmediatamente el almidón empieza a ponerse pastoso y llega el hormigueo. Se está liberando el nacle. Esta calma de bolsillo, este agua tibia, esta redondez en los filos. Nacle.
 
 Ese recuerdo no era mío.
-
-# La mandanga
-
-> ITALIC
-
-La constricción del lazo obstruye en primera instancia las venas yugulares, cuyo colapso requiere una presión mecánica de apenas dos kilogramos. El flujo arterial continúa bombeando sangre hacia la cavidad craneal sin vía de retorno venoso, provocando una congestión facial inmediata y un aumento masivo de la presión intracraneal. Con cinco kilogramos de tracción, las arterias carótidas se ocluyen, deteniendo de forma drástica el suministro de oxígeno y glucosa al tejido encefálico. En ausencia de perfusión, el encéfalo agota sus reservas residuales de ATP aeróbico, manifestando fotopsia, manifestada como una saturación visual blanquecina generalizada, y acúfenos severos en forma de estática auditiva. En este umbral crítico, antes de la anulación del córtex, el sistema límbico reacciona ante la hipoxia aguda con una descarga masiva de endorfinas y encefalinas. Este flujo de opioides endógenos satura los receptores opioides mu, induciendo una analgesia profunda que disocia el pánico de la asfixia, mientras un repunte final de dopamina y serotonina genera una distorsión cognitiva de hiperclaridad. El sistema nervioso central interrumpe la recepción de estímulos nociceptivos periféricos mientras el metabolismo celular revierte a vías anaeróbicas, reduciendo la eficiencia energética y generando una acumulación tóxica de ácido láctico. Las membranas neuronales sufren una despolarización masiva por el fracaso de las bombas iónicas, liberando un exceso citotóxico de glutamato que acelera la degradación sináptica. Esta descarga eléctrica irregular desencadena contracciones musculares tónico-clónicas en las extremidades y la relajación involuntaria de los esfínteres vesical y anal. A nivel microvascular, la ruptura de la barrera de presión en la red capilar origina petequias en las conjuntivas oculares y en las serosas de las vísceras, evidenciando el colapso de la resistencia endotelial. La base de la lengua, desplazada mecánicamente, protruye entre los labios con una coloración cianótica mientras se establece una apnea irreversible. El miocardio mantiene una actividad eléctrica autónoma que deriva en bradicardia severa, exacerbada por la inhibición vagal del reflejo barorreceptor en el seno carotídeo. El encéfalo entra en un estado de coma isquémico donde las reservas de glucosa alcanzan el nivel cero. La hipoxia sostenida degrada los lípidos de las membranas celulares y provoca la lisis mitocondrial, marcando el inicio de la necrosis tisular estructural. Finalmente, el músculo cardíaco evoluciona de un ritmo arritmogénico a la asistolia clínica, llegando al paro cardíaco total.
-
-****
-
-Tal vez soy una polilla que sueña ser un hombre. Tal vez soy un hombre que sueña ser una polilla que sueña ser un hombre. Es mejor no asomarse a ese pozo sin fondo. Es mejor contemplar el paisaje blanquecino y polvoriento.
-
-Mis sueños son cada vez más intensos. El de anoche todavía reverbera, aunque ya es mediodía, por encima de la música crujiente de la radio AM de la furgoneta. Llevo el volumen al máximo y aun así.
-
-En el sueño aparecía una vieja de pelo blanco, desnuda, que me enseñaba con gran seriedad y de forma minuciosa su abdomen cóncavo, sus extremidades momificadas, todo el cuerpo del color del cuero viejo. Consumida por la sal, tenía las cuencas de los ojos vacías y un rictus eterno. Mientras me mostraba su cuerpo reseco, yo me flagelaba por encima de los hombros con una disciplina de cáñamo y me gustaba. Aquella vieja me gritaba entonces que tenía sed, mucha sed, que le llevara agua, por mis muertos, que se moría de sed, que la encontraría debajo del puente metálico. Su voz se iba volviendo borboteante hasta que de su boca chorreaba un hilo continuo de limo parduzco que se deslizaba por el mentón. Olía a habitación que lleva cerrada muchos años. Sed, tengo sed, dame agua, desgraciado, tengo tanta sed. Sus gruñidos eran tan graves que más que oírlos los sentía en el cuerpo. Se golpeaba el pecho con la mano abierta y me salpicaba con aquella pus negra. Ahí me clavé las uñas y desperté.
-
-Aparco a una distancia prudente. Con los neumáticos normales no me atrevo a entrar más.
-
-Hacía tiempo que no venía por aquí. La sal ha avanzado tanto que me resultaría imposible llegar corriendo al límite antiguo sin detenerme a recuperar el resuello. El poste bicolor apenas sobresale unos centímetros. Hay mucha más sal en suspensión aquí que en la zona norte, de modo que me aprieto la correa de las gafas hasta que el borde inferior se me clava en los pómulos. Duele. Mejor así.
-
-Me subo el pañuelo para taparme la boca y la nariz. Miro hacia el horizonte blanco y, aunque el día está encapotado, la luz es tan intensa que tengo que entornar los ojos a pesar de las gafas. Ahí está el tramo del antiguo puente de hierro, emergiendo de la sal como una rampa a ninguna parte. Según me decía la vieja anoche, la encontraré justo debajo.
 
 # Trueques de todo género
 
