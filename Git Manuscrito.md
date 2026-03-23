@@ -439,8 +439,6 @@ La vieja se ríe mostrando los dientes podridos. El aliento le huele a caries y 
 
 Como siempre he sido mucho de exigirme, me exijo despertar de una vez y esta realidad que huele a nuevo se desvanece. Entonces me doy cuenta de que me he corrido.
 
-# New section
-
 # Viaje al centro de la Tierra
 
 Sacas el libro de debajo del colchón y te agarras a él como si fuese el pedazo de corcho que te dan en natación. Deslizas las yemas de los dedos por el lomo desgastado. Mamá debe estar preparando la cena porque desde la cocina llega ruido de cacharros. Abres el libro, aspiras el olor a papel viejo, las palabras del primer párrafo te abrazan de nuevo.
