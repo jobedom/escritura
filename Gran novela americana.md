@@ -47,52 +47,6 @@ Hacía tiempo que no venía por aquí. La sal ha avanzado tanto que me resultar�
 
 Me subo el pañuelo para taparme la boca y la nariz. Miro hacia el horizonte blanco y, aunque el día está encapotado, la luz es tan intensa que tengo que entornar los ojos a pesar de las gafas. Ahí está el tramo del antiguo puente de hierro, emergiendo de la sal como una rampa a ninguna parte. Según me decía la vieja anoche, la encontraré justo debajo.
 
-# Mujer, maleta, terraplén
-
-En GitHub. Yay!
-
-He matado a una mujer. La he descuartizado y me he deshecho de ella metiéndola en una maleta grande, flexible, poliéster gris oscuro, que posteriormente he lanzado por un terraplén, en un lugar tan carente de detalles como una fotografía demasiado expuesta.
-
-Aguanto **la respiración** al vislumbrar algunos _elementos estomagantes_ y obstinadamente desconocidos. La mujer, la maleta, el terraplén. Mi cabeza viaja con billete de ida y vuelta. El terraplén, la maleta, la mujer. Solo puedo recordar su silueta a contraluz. Esa mujer era delgada y desesperanzadora como una vara de almendro en las manos inadecuadas.
-
-[Mi cabeza viaja con billete de ida y vuelta. El terraplén, la maleta, la mujer. Solo puedo recordar su silueta a contraluz. Esa mujer era delgada y desesperanzadora como una vara de almendro en las manos inadecuadas.]
-
-Me extraigo muy lentamente del interior del cráneo, a través de una rendija entre las cejas, una tira de algo que parece papel. Es larga, larguísima, parece que no se acaba nunca. Al fin la tira queda extirpada y la sujeto en alto como un trofeo. Es un momificado gusano de la culpa[:El gusano de la culpa fue capturado por primera vez en marzo de 1921 en Cotacachi (Ecuador). Le fue extraído a Manuel del Tránsito Lascano por el Dr. Juan Bautista Moncayo de Arízaga, que usó para ello únicamente sus manos y su buen pulso. Al cabo de dos semanas, el Dr. Moncayo de Arízaga se suicidó mediante un expeditivo disparo en la boca. La bala y el gusano de la culpa se exhiben desde entonces en el Museo Municipal de Cotacachi.], reseco y enroscado, que sujeto con aprensión.
-
-Para mi sorpresa, soy capaz de pensar simultáneamente en tres cosas[:El gran yogui Swami Vivekananda desarrolló un método para esto consistente en apilar los pensamientos haciéndolos coincidir en las esquinas. Con ello se consigue un sustancioso ahorro en espacio mental que, con práctica, permite mantener en equilibrio hasta quince pensamientos simultáneos.]. 
-
-La primera, que es raro que la autoridad no me haya descubierto aún, teniendo en cuenta el descuido con el que me deshice de esa maleta.
-
-La segunda, que el mecanismo mental de bloqueo es sorprendentemente eficaz, capaz de evitar todo recuerdo irritador durante mucho tiempo.
-
-La tercera, que tengo que impedir que esto se sepa. Lo más importante es evitar que se sepa.
-
-Una cuarta idea barre estas tres y me golpea el pecho con contundencia. Este recuerdo no es mío. Recuerdo la mujer, el terraplén, la maleta, pero este recuerdo no es mío. Me puedo ver desde fuera y resulta que voy conduciendo y que no puedo dejar de mujer maleta terraplén y que voy conduciendo y que tiemblo y que huele a lejía y que voy conduciendo y que mujer maleta terraplén. Pero este recuerdo no es mío.
-
-Cierro los ojos, aprieto la mandíbula, siento el impulso de rezar al demonio del nacle, pero sé que todo es inútil, ya no soy humano, me he convertido en una nube de probabilidad, un conjunto de vibraciones coherentes que moldean la retícula subatómica que me rodea, una pregunta oblicua que cuestiona su propia existencia frente a la del mundo, me paso la mano por la frente sudorosa, estoy empapado, mi cara se funde, sé que necesito nacle, urgentemente, pero antes tengo que detener la furgoneta, un bramido, un vendaval, rebusco en el bolsillo hasta encontrar la bolsa plana que me dio Cedeño, no la veo, solo la siento al tacto, creo que la tengo sujeta con la punta de los dedos, me disgrego en mis generadores matemáticos principales, escondo los más áridos, me presento como una serie armónica, intento fijar la atención en el sumatorio, saco una de las tiras y la sujeto entre el subíndice y el superíndice, con un volantazo echo la furgoneta a la derecha, chirría la gravilla, se levanta una polvareda blanquecina, las ruedas se encajan en la cuneta, la furgoneta se inclina a un lado, peligrosamente, piso el freno, más, más aún, me golpeo debajo del esternón con el volante, el motor se detiene.
-
-Me coloco la tira de nacle entre el labio superior y la encía. Cierro los ojos. Respiro hondo. 
-
-Inmediatamente el almidón empieza a ponerse pastoso y llega el hormigueo. Se está liberando el nacle. Esta calma de bolsillo, este agua tibia, esta redondez en los filos. Nacle.
-
-Ese recuerdo no era mío.
-
-****
-
-La segunda, que el mecanismo mental de bloqueo es sorprendentemente eficaz, capaz de evitar todo recuerdo irritador durante mucho tiempo.
-
-La tercera, que tengo que impedir que esto se sepa. Lo más importante es evitar que se sepa.
-
-Una cuarta idea barre estas tres y me golpea el pecho con contundencia. Este recuerdo no es mío. Recuerdo la mujer, el terraplén, la maleta, pero este recuerdo no es mío. Me puedo ver desde fuera y resulta que voy conduciendo y que no puedo dejar de mujer maleta terraplén y que voy conduciendo y que tiemblo y que huele a lejía y que voy conduciendo y que mujer maleta terraplén. Pero este recuerdo no es mío.
-
-Cierro los ojos, aprieto la mandíbula, siento el impulso de rezar al demonio del nacle, pero sé que todo es inútil, ya no soy humano, me he convertido en una nube de probabilidad, un conjunto de vibraciones coherentes que moldean la retícula subatómica que me rodea, una pregunta oblicua que cuestiona su propia existencia frente a la del mundo, me paso la mano por la frente sudorosa, estoy empapado, mi cara se funde, sé que necesito nacle, urgentemente, pero antes tengo que detener la furgoneta, un bramido, un vendaval, rebusco en el bolsillo hasta encontrar la bolsa plana que me dio Cedeño, no la veo, solo la siento al tacto, creo que la tengo sujeta con la punta de los dedos, me disgrego en mis generadores matemáticos principales, escondo los más áridos, me presento como una serie armónica, intento fijar la atención en el sumatorio, saco una de las tiras y la sujeto entre el subíndice y el superíndice, con un volantazo echo la furgoneta a la derecha, chirría la gravilla, se levanta una polvareda blanquecina, las ruedas se encajan en la cuneta, la furgoneta se inclina a un lado, peligrosamente, piso el freno, más, más aún, me golpeo debajo del esternón con el volante, el motor se detiene.
-
-Me coloco la tira de nacle entre el labio superior y la encía. Cierro los ojos. Respiro hondo. 
-
-Inmediatamente el almidón empieza a ponerse pastoso y llega el hormigueo. Se está liberando el nacle. Esta calma de bolsillo, este agua tibia, esta redondez en los filos. Nacle.
-
-Ese recuerdo no era mío.
-
 # Trueques de todo género
 
 Tal vez soy una polilla que sueña ser un hombre. Tal vez soy un hombre que sueña ser una polilla que sueña ser un hombre. Es mejor no asomarse a ese pozo sin fondo. Es mejor contemplar el paisaje blanquecino y polvoriento.
@@ -252,6 +206,52 @@ Su voz se iba volviendo borboteante hasta que de su boca chorreaba un hilo conti
 Aparco a una distancia prudente. Con los neumáticos normales no me atrevo a entrar más.
 
 Hacía tiempo que no venía por aquí. La sal ha avanzado tanto que me resultaría imposible llegar corriendo al límite antiguo sin detenerme a recuperar el resuello. El poste bicolor apenas sobresale unos centímetros. Hay mucha más sal en suspensión aquí que en la zona norte, de modo que me aprieto la correa de las gafas hasta que el borde inferior se me clava en los pómulos. Duele. Mejor así.
+
+# Mujer, maleta, terraplén
+
+En GitHub. Yay!
+
+He matado a una mujer. La he descuartizado y me he deshecho de ella metiéndola en una maleta grande, flexible, poliéster gris oscuro, que posteriormente he lanzado por un terraplén, en un lugar tan carente de detalles como una fotografía demasiado expuesta.
+
+Aguanto **la respiración** al vislumbrar algunos _elementos estomagantes_ y obstinadamente desconocidos. La mujer, la maleta, el terraplén. Mi cabeza viaja con billete de ida y vuelta. El terraplén, la maleta, la mujer. Solo puedo recordar su silueta a contraluz. Esa mujer era delgada y desesperanzadora como una vara de almendro en las manos inadecuadas.
+
+[Mi cabeza viaja con billete de ida y vuelta. El terraplén, la maleta, la mujer. Solo puedo recordar su silueta a contraluz. Esa mujer era delgada y desesperanzadora como una vara de almendro en las manos inadecuadas.]
+
+Me extraigo muy lentamente del interior del cráneo, a través de una rendija entre las cejas, una tira de algo que parece papel. Es larga, larguísima, parece que no se acaba nunca. Al fin la tira queda extirpada y la sujeto en alto como un trofeo. Es un momificado gusano de la culpa[:El gusano de la culpa fue capturado por primera vez en marzo de 1921 en Cotacachi (Ecuador). Le fue extraído a Manuel del Tránsito Lascano por el Dr. Juan Bautista Moncayo de Arízaga, que usó para ello únicamente sus manos y su buen pulso. Al cabo de dos semanas, el Dr. Moncayo de Arízaga se suicidó mediante un expeditivo disparo en la boca. La bala y el gusano de la culpa se exhiben desde entonces en el Museo Municipal de Cotacachi.], reseco y enroscado, que sujeto con aprensión.
+
+Para mi sorpresa, soy capaz de pensar simultáneamente en tres cosas[:El gran yogui Swami Vivekananda desarrolló un método para esto consistente en apilar los pensamientos haciéndolos coincidir en las esquinas. Con ello se consigue un sustancioso ahorro en espacio mental que, con práctica, permite mantener en equilibrio hasta quince pensamientos simultáneos.]. 
+
+La primera, que es raro que la autoridad no me haya descubierto aún, teniendo en cuenta el descuido con el que me deshice de esa maleta.
+
+La segunda, que el mecanismo mental de bloqueo es sorprendentemente eficaz, capaz de evitar todo recuerdo irritador durante mucho tiempo.
+
+La tercera, que tengo que impedir que esto se sepa. Lo más importante es evitar que se sepa.
+
+Una cuarta idea barre estas tres y me golpea el pecho con contundencia. Este recuerdo no es mío. Recuerdo la mujer, el terraplén, la maleta, pero este recuerdo no es mío. Me puedo ver desde fuera y resulta que voy conduciendo y que no puedo dejar de mujer maleta terraplén y que voy conduciendo y que tiemblo y que huele a lejía y que voy conduciendo y que mujer maleta terraplén. Pero este recuerdo no es mío.
+
+Cierro los ojos, aprieto la mandíbula, siento el impulso de rezar al demonio del nacle, pero sé que todo es inútil, ya no soy humano, me he convertido en una nube de probabilidad, un conjunto de vibraciones coherentes que moldean la retícula subatómica que me rodea, una pregunta oblicua que cuestiona su propia existencia frente a la del mundo, me paso la mano por la frente sudorosa, estoy empapado, mi cara se funde, sé que necesito nacle, urgentemente, pero antes tengo que detener la furgoneta, un bramido, un vendaval, rebusco en el bolsillo hasta encontrar la bolsa plana que me dio Cedeño, no la veo, solo la siento al tacto, creo que la tengo sujeta con la punta de los dedos, me disgrego en mis generadores matemáticos principales, escondo los más áridos, me presento como una serie armónica, intento fijar la atención en el sumatorio, saco una de las tiras y la sujeto entre el subíndice y el superíndice, con un volantazo echo la furgoneta a la derecha, chirría la gravilla, se levanta una polvareda blanquecina, las ruedas se encajan en la cuneta, la furgoneta se inclina a un lado, peligrosamente, piso el freno, más, más aún, me golpeo debajo del esternón con el volante, el motor se detiene.
+
+Me coloco la tira de nacle entre el labio superior y la encía. Cierro los ojos. Respiro hondo. 
+
+Inmediatamente el almidón empieza a ponerse pastoso y llega el hormigueo. Se está liberando el nacle. Esta calma de bolsillo, este agua tibia, esta redondez en los filos. Nacle.
+
+Ese recuerdo no era mío.
+
+****
+
+La segunda, que el mecanismo mental de bloqueo es sorprendentemente eficaz, capaz de evitar todo recuerdo irritador durante mucho tiempo.
+
+La tercera, que tengo que impedir que esto se sepa. Lo más importante es evitar que se sepa.
+
+Una cuarta idea barre estas tres y me golpea el pecho con contundencia. Este recuerdo no es mío. Recuerdo la mujer, el terraplén, la maleta, pero este recuerdo no es mío. Me puedo ver desde fuera y resulta que voy conduciendo y que no puedo dejar de mujer maleta terraplén y que voy conduciendo y que tiemblo y que huele a lejía y que voy conduciendo y que mujer maleta terraplén. Pero este recuerdo no es mío.
+
+Cierro los ojos, aprieto la mandíbula, siento el impulso de rezar al demonio del nacle, pero sé que todo es inútil, ya no soy humano, me he convertido en una nube de probabilidad, un conjunto de vibraciones coherentes que moldean la retícula subatómica que me rodea, una pregunta oblicua que cuestiona su propia existencia frente a la del mundo, me paso la mano por la frente sudorosa, estoy empapado, mi cara se funde, sé que necesito nacle, urgentemente, pero antes tengo que detener la furgoneta, un bramido, un vendaval, rebusco en el bolsillo hasta encontrar la bolsa plana que me dio Cedeño, no la veo, solo la siento al tacto, creo que la tengo sujeta con la punta de los dedos, me disgrego en mis generadores matemáticos principales, escondo los más áridos, me presento como una serie armónica, intento fijar la atención en el sumatorio, saco una de las tiras y la sujeto entre el subíndice y el superíndice, con un volantazo echo la furgoneta a la derecha, chirría la gravilla, se levanta una polvareda blanquecina, las ruedas se encajan en la cuneta, la furgoneta se inclina a un lado, peligrosamente, piso el freno, más, más aún, me golpeo debajo del esternón con el volante, el motor se detiene.
+
+Me coloco la tira de nacle entre el labio superior y la encía. Cierro los ojos. Respiro hondo. 
+
+Inmediatamente el almidón empieza a ponerse pastoso y llega el hormigueo. Se está liberando el nacle. Esta calma de bolsillo, este agua tibia, esta redondez en los filos. Nacle.
+
+Ese recuerdo no era mío.
 
 # La sal de la Tierra
 
