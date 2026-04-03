@@ -2,23 +2,31 @@
 TITLE: Salzkommando
 AUTHOR: Joaquín Bernal
 STATUS: Primer borrador
-
 LOCALE: es
 COVER: false
 PROJECT: false
 SIMPLE FILENAME: true
-
 DEDICATION: Para Paula, luminoso cofre de maravillas
-
 EPIGRAPHS: |
-    Miramos el mundo una sola vez, 
-    en la niñez. Lo demás es memoria.
-    —Louise Glück, Nostos {es}
-
+  Miramos el mundo una sola vez,
+  en la niñez. Lo demás es memoria.
+  —Louise Glück, Nostos {es}
 GOAL WORDS: 56,000
 GOAL SCENES: 30
 WORDS PER PAGE: 260
 WORDS PER DAY: 2,000
+settings: |-
+  eJx1Us2O2jAQfpXIpdpL2EI2hIRbVxCxh1ZIoHI2yUDcTezINt3S7Uq99yV4Fh6lT9Kxk4
+  YkovYh8Tcz33zz80pSKp_J7JXsDmRG3o3sIS7Z2-d8bC4-Gdcg9zQBgyaRuYhmQFPGredi
+  EcXjKWKJKArg2mCBPYZMCM2FtsEP84_RY4jgLgdIyWx0P_HfXJKzQ6avOmJ7Gh2NrI6OBm
+  3pCDxvEfpdHaFnbk_H2J-GUdTW4UeoQyUZFMahEmR4eII8kmom-Lpv3QuuY1qw_ITg3ZNQ
+  8O2ZOp8oP6pEslLfuU4huFClkVy5r9kPZBiHpmYOS6gKH99PJi7R8F1vWaozBEYPUS_7pm
+  MdofuphBfJsCUrkImtNkL4RchUIbKiB8zkBS1oTlGoh11ziWmEiq-CJq3uxu2y1ElpKIZH
+  5jpDWpY5DCvEdRTlaqhAsj3pBdecvkvEUZs6nzAgFrKgZiIDBYkpaGtU_fn1G6MhZVrIJQ
+  4S5NWvlOIgQSnnvdP8_nQwYpDSk9qImHGmssvZvJwc9nZgYIT0mExIndR0RV3Opfk4H5yO
+  lsvZNgpZMN1XNPQFaaFp3mW4nCvUEjg2HjUONCvAM4uoWAo7KuvBTR6CBlrjB0llvUt1p9
+  aV8QtTDFeTzLQ8Ao5alCvKIe_Bdoi3DKYZt5lallqTH0wreHM7iTE9Cq1F8T_r50bGv30O
+  gqitroGjsNryo4QeD64W8HRV9X2tceOVZonaZsCXLE2Bd2ruD8aC9QjI21_NR6Q8
 ---
 
 ****
@@ -29,11 +37,9 @@ A la manera correcta de llorar, entendiendo por esto un llanto que no ingrese en
 
 # La mandanga
 
-> ITALIC
-
 La constricción del lazo obstruye en primera instancia las venas yugulares, cuyo colapso requiere una presión mecánica de apenas dos kilogramos. El flujo arterial continúa bombeando sangre hacia la cavidad craneal sin vía de retorno venoso, provocando una congestión facial inmediata y un aumento masivo de la presión intracraneal. Con cinco kilogramos de tracción, las arterias carótidas se ocluyen, deteniendo de forma drástica el suministro de oxígeno y glucosa al tejido encefálico. En ausencia de perfusión, el encéfalo agota sus reservas residuales de ATP aeróbico, manifestando fotopsia, manifestada como una saturación visual blanquecina generalizada, y acúfenos severos en forma de estática auditiva. En este umbral crítico, antes de la anulación del córtex, el sistema límbico reacciona ante la hipoxia aguda con una descarga masiva de endorfinas y encefalinas. Este flujo de opioides endógenos satura los receptores opioides mu, induciendo una analgesia profunda que disocia el pánico de la asfixia, mientras un repunte final de dopamina y serotonina genera una distorsión cognitiva de hiperclaridad. El sistema nervioso central interrumpe la recepción de estímulos nociceptivos periféricos mientras el metabolismo celular revierte a vías anaeróbicas, reduciendo la eficiencia energética y generando una acumulación tóxica de ácido láctico. Las membranas neuronales sufren una despolarización masiva por el fracaso de las bombas iónicas, liberando un exceso citotóxico de glutamato que acelera la degradación sináptica. Esta descarga eléctrica irregular desencadena contracciones musculares tónico-clónicas en las extremidades y la relajación involuntaria de los esfínteres vesical y anal. A nivel microvascular, la ruptura de la barrera de presión en la red capilar origina petequias en las conjuntivas oculares y en las serosas de las vísceras, evidenciando el colapso de la resistencia endotelial. La base de la lengua, desplazada mecánicamente, protruye entre los labios con una coloración cianótica mientras se establece una apnea irreversible. El miocardio mantiene una actividad eléctrica autónoma que deriva en bradicardia severa, exacerbada por la inhibición vagal del reflejo barorreceptor en el seno carotídeo. El encéfalo entra en un estado de coma isquémico donde las reservas de glucosa alcanzan el nivel cero. La hipoxia sostenida degrada los lípidos de las membranas celulares y provoca la lisis mitocondrial, marcando el inicio de la necrosis tisular estructural. Finalmente, el músculo cardíaco evoluciona de un ritmo arritmogénico a la asistolia clínica, llegando al paro cardíaco total.
 
-****
+%%%
 
 Tal vez soy una polilla que sueña ser un hombre. Tal vez soy un hombre que sueña ser una polilla que sueña ser un hombre. Es mejor no asomarse a ese pozo sin fondo. Es mejor contemplar el paisaje blanquecino y polvoriento.
 
@@ -59,7 +65,7 @@ Aguanto **la respiración** al vislumbrar algunos _elementos estomagantes_ y obs
 
 Me extraigo muy lentamente del interior del cráneo, a través de una rendija entre las cejas, una tira de algo que parece papel. Es larga, larguísima, parece que no se acaba nunca. Al fin la tira queda extirpada y la sujeto en alto como un trofeo. Es un momificado gusano de la culpa[:El gusano de la culpa fue capturado por primera vez en marzo de 1921 en Cotacachi (Ecuador). Le fue extraído a Manuel del Tránsito Lascano por el Dr. Juan Bautista Moncayo de Arízaga, que usó para ello únicamente sus manos y su buen pulso. Al cabo de dos semanas, el Dr. Moncayo de Arízaga se suicidó mediante un expeditivo disparo en la boca. La bala y el gusano de la culpa se exhiben desde entonces en el Museo Municipal de Cotacachi.], reseco y enroscado, que sujeto con aprensión.
 
-Para mi sorpresa, soy capaz de pensar simultáneamente en tres cosas[:El gran yogui Swami Vivekananda desarrolló un método para esto consistente en apilar los pensamientos haciéndolos coincidir en las esquinas. Con ello se consigue un sustancioso ahorro en espacio mental que, con práctica, permite mantener en equilibrio hasta quince pensamientos simultáneos.]. 
+Para mi sorpresa, soy capaz de pensar simultáneamente en tres cosas[:El gran yogui Swami Vivekananda desarrolló un método para esto consistente en apilar los pensamientos haciéndolos coincidir en las esquinas. Con ello se consigue un sustancioso ahorro en espacio mental que, con práctica, permite mantener en equilibrio hasta quince pensamientos simultáneos.].
 
 La primera, que es raro que la autoridad no me haya descubierto aún, teniendo en cuenta el descuido con el que me deshice de esa maleta.
 
@@ -71,7 +77,7 @@ Una cuarta idea barre estas tres y me golpea el pecho con contundencia. Este rec
 
 Cierro los ojos, aprieto la mandíbula, siento el impulso de rezar al demonio del nacle, pero sé que todo es inútil, ya no soy humano, me he convertido en una nube de probabilidad, un conjunto de vibraciones coherentes que moldean la retícula subatómica que me rodea, una pregunta oblicua que cuestiona su propia existencia frente a la del mundo, me paso la mano por la frente sudorosa, estoy empapado, mi cara se funde, sé que necesito nacle, urgentemente, pero antes tengo que detener la furgoneta, un bramido, un vendaval, rebusco en el bolsillo hasta encontrar la bolsa plana que me dio Cedeño, no la veo, solo la siento al tacto, creo que la tengo sujeta con la punta de los dedos, me disgrego en mis generadores matemáticos principales, escondo los más áridos, me presento como una serie armónica, intento fijar la atención en el sumatorio, saco una de las tiras y la sujeto entre el subíndice y el superíndice, con un volantazo echo la furgoneta a la derecha, chirría la gravilla, se levanta una polvareda blanquecina, las ruedas se encajan en la cuneta, la furgoneta se inclina a un lado, peligrosamente, piso el freno, más, más aún, me golpeo debajo del esternón con el volante, el motor se detiene.
 
-Me coloco la tira de nacle entre el labio superior y la encía. Cierro los ojos. Respiro hondo. 
+Me coloco la tira de nacle entre el labio superior y la encía. Cierro los ojos. Respiro hondo.
 
 Inmediatamente el almidón empieza a ponerse pastoso y llega el hormigueo. Se está liberando el nacle. Esta calma de bolsillo, este agua tibia, esta redondez en los filos. Nacle.
 
@@ -87,7 +93,7 @@ Una cuarta idea barre estas tres y me golpea el pecho con contundencia. Este rec
 
 Cierro los ojos, aprieto la mandíbula, siento el impulso de rezar al demonio del nacle, pero sé que todo es inútil, ya no soy humano, me he convertido en una nube de probabilidad, un conjunto de vibraciones coherentes que moldean la retícula subatómica que me rodea, una pregunta oblicua que cuestiona su propia existencia frente a la del mundo, me paso la mano por la frente sudorosa, estoy empapado, mi cara se funde, sé que necesito nacle, urgentemente, pero antes tengo que detener la furgoneta, un bramido, un vendaval, rebusco en el bolsillo hasta encontrar la bolsa plana que me dio Cedeño, no la veo, solo la siento al tacto, creo que la tengo sujeta con la punta de los dedos, me disgrego en mis generadores matemáticos principales, escondo los más áridos, me presento como una serie armónica, intento fijar la atención en el sumatorio, saco una de las tiras y la sujeto entre el subíndice y el superíndice, con un volantazo echo la furgoneta a la derecha, chirría la gravilla, se levanta una polvareda blanquecina, las ruedas se encajan en la cuneta, la furgoneta se inclina a un lado, peligrosamente, piso el freno, más, más aún, me golpeo debajo del esternón con el volante, el motor se detiene.
 
-Me coloco la tira de nacle entre el labio superior y la encía. Cierro los ojos. Respiro hondo. 
+Me coloco la tira de nacle entre el labio superior y la encía. Cierro los ojos. Respiro hondo.
 
 Inmediatamente el almidón empieza a ponerse pastoso y llega el hormigueo. Se está liberando el nacle. Esta calma de bolsillo, este agua tibia, esta redondez en los filos. Nacle.
 
@@ -107,7 +113,7 @@ Hacía tiempo que no venía por aquí. La sal ha avanzado tanto que me resultar�
 
 Me subo el pañuelo para taparme la boca y la nariz. Miro hacia el horizonte blanco y, aunque el día está encapotado, la luz es tan intensa que tengo que entornar los ojos a pesar de las gafas. Ahí está el tramo del antiguo puente de hierro, emergiendo de la sal como una rampa a ninguna parte. Según me decía la vieja anoche, la encontraré justo debajo.
 
-Olor a lejía. La despersonalización se me echa encima con el estruendo de un mercancías. Ya estaba tardando. Aprieto la mandíbula hasta que me crujen las muelas, todo el cuerpo me tiembla, me atraviesa un pánico antiguo tan afilado como el suicidio o el hilo bramante. Y la duda de siempre: si soy el mismo, día tras día, o si solo es una fantasía química generada por mi cerebro para hacerme creer que lo que soy existe de forma estable y es un continuo y yo soy yo y no otro y entonces por qué yo y no otro y cierra la puta boca. El temblor va disminuyendo hasta desaparecer. 
+Olor a lejía. La despersonalización se me echa encima con el estruendo de un mercancías. Ya estaba tardando. Aprieto la mandíbula hasta que me crujen las muelas, todo el cuerpo me tiembla, me atraviesa un pánico antiguo tan afilado como el suicidio o el hilo bramante. Y la duda de siempre: si soy el mismo, día tras día, o si solo es una fantasía química generada por mi cerebro para hacerme creer que lo que soy existe de forma estable y es un continuo y yo soy yo y no otro y entonces por qué yo y no otro y cierra la puta boca. El temblor va disminuyendo hasta desaparecer.
 
 Estoy empapado en sudor.
 
@@ -123,7 +129,7 @@ Me ha sido fácil encontrarla. No me engañó. Estaba donde dijo.
 
 Un cuerpo humano adulto desecado puede pesar tanto como un chaval vivo de siete u ocho años. Esta vieja momificada no llega al peso de un niño de cuatro. Se llamaba Valdis, me lo ha dicho ella misma mientras la sacaba de la sal, prácticamente con una mano. Valdis Einarsdóttir. Me temo que vas a producir poco, Valdis, pero algo es algo. Algo es algo.
 
-La coloco en la parte de atrás de la furgoneta, le echo la lona por encima y la sujeto con los pulpos. Me aseguro de que Valdis no se moverá durante el trayecto, pues un mal golpe podría partirla y no valdría nada, aunque de entrada sé que no va a dar para mucho. De entrada. Igual no serviste para nada en vida, Valdis, y poco se ha perdido. 
+La coloco en la parte de atrás de la furgoneta, le echo la lona por encima y la sujeto con los pulpos. Me aseguro de que Valdis no se moverá durante el trayecto, pues un mal golpe podría partirla y no valdría nada, aunque de entrada sé que no va a dar para mucho. De entrada. Igual no serviste para nada en vida, Valdis, y poco se ha perdido.
 
 Salgo hacia lo de Cedeño. Durante el trayecto intento agarrarme a algo, encontrar un punto fijo con la ayuda de Liapunov. El dolor es a la prueba formal como la nuca es al durmiente como la justificación no solicitada es a un dolor de cabeza. Como el carbunclo es a esa carta largamente esperada. Maldita radiodifusión, maldito antioxidante, malditas repercusiones. ¿Qué es en realidad este hueco en el pecho que engulle cualquier otra cosa? Szemerédi no tiene la respuesta, ese húngaro del demonio. ¿Qué quiero yo mismo? ¿Qué quiere la gente? Más que nada, lo que la gente quiere es que le den la razón. Más que nada, lo que la gente quiere es una almohada de plumas sobre la cara que le evite cualquier ejercicio pernicioso aún no regulado. Más que nada, lo que yo quiero es nacle, esa calma de bolsillo, esa inmersión en agua tibia, esa redondez en los filos de la realidad. Nacle. Nacle. Nacle.
 
@@ -215,23 +221,11 @@ Me meto en la furgoneta y pongo la radio a todo volumen. Olor a lejía. La despe
 
 ****
 
-En el sueño aparecía una vieja de pelo blanco, desnuda, que me enseñaba con gran seriedad y de forma minuciosa su abdomen cóncavo, sus extremidades momificadas, todo el cuerpo del color del cuero viejo. 
+En el sueño aparecía una vieja de pelo blanco, desnuda, que me enseñaba con gran seriedad y de forma minuciosa su abdomen cóncavo, sus extremidades momificadas, todo el cuerpo del color del cuero viejo.
 
-Consumida por la sal, tenía las cuencas de los ojos vacías y un rictus eterno. Mientras me mostraba su cuerpo reseco, yo me flagelaba por encima de los hombros con una disciplina de cáñamo y me gustaba. 
+Consumida por la sal, tenía las cuencas de los ojos vacías y un rictus eterno. Mientras me mostraba su cuerpo reseco, yo me flagelaba por encima de los hombros con una disciplina de cáñamo y me gustaba.
 
-Aquella vieja me gritaba entonces que tenía sed, mucha sed, que le llevara agua, por mis muertos, que se moría de sed, que la encontraría debajo del puente metálico. 
-
-Su voz se iba volviendo borboteante hasta que de su boca chorreaba un hilo continuo de limo parduzco que se deslizaba por el mentón. Olía a habitación que lleva cerrada muchos años. Sed, tengo sed, dame agua, desgraciado, tengo tanta sed. Sus gruñidos eran tan graves que más que oírlos los sentía en el cuerpo. Se golpeaba el pecho con la mano abierta y me salpicaba con aquella pus negra. Ahí me clavé las uñas y desperté.
-
-Aparco a una distancia prudente. Con los neumáticos normales no me atrevo a entrar más.
-
-Hacía tiempo que no venía por aquí. La sal ha avanzado tanto que me resultaría imposible llegar corriendo al límite antiguo sin detenerme a recuperar el resuello. El poste bicolor apenas sobresale unos centímetros. Hay mucha más sal en suspensión aquí que en la zona norte, de modo que me aprieto la correa de las gafas hasta que el borde inferior se me clava en los pómulos. Duele. Mejor así.
-
-En el sueño aparecía una vieja de pelo blanco, desnuda, que me enseñaba con gran seriedad y de forma minuciosa su abdomen cóncavo, sus extremidades momificadas, todo el cuerpo del color del cuero viejo. 
-
-Consumida por la sal, tenía las cuencas de los ojos vacías y un rictus eterno. Mientras me mostraba su cuerpo reseco, yo me flagelaba por encima de los hombros con una disciplina de cáñamo y me gustaba. 
-
-Aquella vieja me gritaba entonces que tenía sed, mucha sed, que le llevara agua, por mis muertos, que se moría de sed, que la encontraría debajo del puente metálico. 
+Aquella vieja me gritaba entonces que tenía sed, mucha sed, que le llevara agua, por mis muertos, que se moría de sed, que la encontraría debajo del puente metálico.
 
 Su voz se iba volviendo borboteante hasta que de su boca chorreaba un hilo continuo de limo parduzco que se deslizaba por el mentón. Olía a habitación que lleva cerrada muchos años. Sed, tengo sed, dame agua, desgraciado, tengo tanta sed. Sus gruñidos eran tan graves que más que oírlos los sentía en el cuerpo. Se golpeaba el pecho con la mano abierta y me salpicaba con aquella pus negra. Ahí me clavé las uñas y desperté.
 
@@ -239,13 +233,25 @@ Aparco a una distancia prudente. Con los neumáticos normales no me atrevo a ent
 
 Hacía tiempo que no venía por aquí. La sal ha avanzado tanto que me resultaría imposible llegar corriendo al límite antiguo sin detenerme a recuperar el resuello. El poste bicolor apenas sobresale unos centímetros. Hay mucha más sal en suspensión aquí que en la zona norte, de modo que me aprieto la correa de las gafas hasta que el borde inferior se me clava en los pómulos. Duele. Mejor así.
 
+En el sueño aparecía una vieja de pelo blanco, desnuda, que me enseñaba con gran seriedad y de forma minuciosa su abdomen cóncavo, sus extremidades momificadas, todo el cuerpo del color del cuero viejo.
+
+Consumida por la sal, tenía las cuencas de los ojos vacías y un rictus eterno. Mientras me mostraba su cuerpo reseco, yo me flagelaba por encima de los hombros con una disciplina de cáñamo y me gustaba.
+
+Aquella vieja me gritaba entonces que tenía sed, mucha sed, que le llevara agua, por mis muertos, que se moría de sed, que la encontraría debajo del puente metálico.
+
+Su voz se iba volviendo borboteante hasta que de su boca chorreaba un hilo continuo de limo parduzco que se deslizaba por el mentón. Olía a habitación que lleva cerrada muchos años. Sed, tengo sed, dame agua, desgraciado, tengo tanta sed. Sus gruñidos eran tan graves que más que oírlos los sentía en el cuerpo. Se golpeaba el pecho con la mano abierta y me salpicaba con aquella pus negra. Ahí me clavé las uñas y desperté.
+
+Aparco a una distancia prudente. Con los neumáticos normales no me atrevo a entrar más.
+
 Hacía tiempo que no venía por aquí. La sal ha avanzado tanto que me resultaría imposible llegar corriendo al límite antiguo sin detenerme a recuperar el resuello. El poste bicolor apenas sobresale unos centímetros. Hay mucha más sal en suspensión aquí que en la zona norte, de modo que me aprieto la correa de las gafas hasta que el borde inferior se me clava en los pómulos. Duele. Mejor así.
 
-En el sueño aparecía una vieja de pelo blanco, desnuda, que me enseñaba con gran seriedad y de forma minuciosa su abdomen cóncavo, sus extremidades momificadas, todo el cuerpo del color del cuero viejo. 
+Hacía tiempo que no venía por aquí. La sal ha avanzado tanto que me resultaría imposible llegar corriendo al límite antiguo sin detenerme a recuperar el resuello. El poste bicolor apenas sobresale unos centímetros. Hay mucha más sal en suspensión aquí que en la zona norte, de modo que me aprieto la correa de las gafas hasta que el borde inferior se me clava en los pómulos. Duele. Mejor así.
 
-Consumida por la sal, tenía las cuencas de los ojos vacías y un rictus eterno. Mientras me mostraba su cuerpo reseco, yo me flagelaba por encima de los hombros con una disciplina de cáñamo y me gustaba. 
+En el sueño aparecía una vieja de pelo blanco, desnuda, que me enseñaba con gran seriedad y de forma minuciosa su abdomen cóncavo, sus extremidades momificadas, todo el cuerpo del color del cuero viejo.
 
-Aquella vieja me gritaba entonces que tenía sed, mucha sed, que le llevara agua, por mis muertos, que se moría de sed, que la encontraría debajo del puente metálico. 
+Consumida por la sal, tenía las cuencas de los ojos vacías y un rictus eterno. Mientras me mostraba su cuerpo reseco, yo me flagelaba por encima de los hombros con una disciplina de cáñamo y me gustaba.
+
+Aquella vieja me gritaba entonces que tenía sed, mucha sed, que le llevara agua, por mis muertos, que se moría de sed, que la encontraría debajo del puente metálico.
 
 Su voz se iba volviendo borboteante hasta que de su boca chorreaba un hilo continuo de limo parduzco que se deslizaba por el mentón. Olía a habitación que lleva cerrada muchos años. Sed, tengo sed, dame agua, desgraciado, tengo tanta sed. Sus gruñidos eran tan graves que más que oírlos los sentía en el cuerpo. Se golpeaba el pecho con la mano abierta y me salpicaba con aquella pus negra. Ahí me clavé las uñas y desperté.
 
@@ -329,7 +335,7 @@ Al recuperarlo, me encuentro conduciendo la furgoneta a toda velocidad. Atravies
 
 Hay cola en la entrada de lo de Aynur. Los cuerpos parecen fotocopias, una misma postura clonada docenas de veces. Los hombros caídos, la mirada apuntando al suelo, las manos en los bolsillos, los ojos gritando las mismas ganas repetidas de abrirse la mandíbula con las dos manos y tirar tirar tirar hasta escuchar un crujido y dejar de preocuparse y escuchar de lejos el suave murmullo de la sal arrastrada por el viento. Los pinchazos de sal en la cara, apenas perceptibles, con ese ruido blanco de estática sobre la piel, me relajan casi tanto como respirar hondo y aspirar esa misma sal hasta llevarme al punto en el que tengo que toser toser toser y escupir una masa negra y resbaladiza de preocupaciones que se aleja deslizándose para dejarse caer en la alcantarilla de la inutilidad no equivalente que todos llevamos en un bolsillo indeterminado.
 
-Me abro paso y, excepto alguna queja sin fuerza, casi nadie protesta. Creo que prefieren guardar las energías para poder arrastrar los pies despacio y llegar a la puerta centímetro a centímetro. 
+Me abro paso y, excepto alguna queja sin fuerza, casi nadie protesta. Creo que prefieren guardar las energías para poder arrastrar los pies despacio y llegar a la puerta centímetro a centímetro.
 
 La cocina está a reventar. Normalmente, a estas horas de la mañana me prepararía un café y algo de comer, pero en realidad no tengo mucha hambre. No me apetece bregar con estos y una náusea redonda me pide no acercarme, no dejar que me toquen, no solapar mi espacio con su espacio para evitar que esa suciedad pegajosa que se les acumula en las aristas de la respiración ensucie mi aura perfecta, acolchada de buenas intenciones y decisiones antiguas, las mismas decisiones que normalmente guardo en un estantito esperando al nacle y su hora feliz, el mismo estantito que ahora aparece vacío porque mi aura está oronda y rosada como un bebé saludable y no quiero que me toquen.
 
@@ -353,7 +359,7 @@ Aynur no tiene que pedirle a los ocupantes del sofá que nos hagan sitio. Ellos 
 
 —Seguro que no quieres un café.
 
-No ha sido una pregunta. 
+No ha sido una pregunta.
 
 Toso flojo para hacer salir las palabras que se me han quedado atascadas a la altura de la nuez y esa tos tiene un sabor incongruente a eucalipto salado.
 
@@ -387,7 +393,7 @@ Aynur deja salir el aire muy despacio en un silbido mudo y de su boca emerge una
 
 —Ahora va a resultar que tienes el alma inconsútil.
 
-—Soy química autorreplicativa que da lugar a esta materia altamente estructurada. 
+—Soy química autorreplicativa que da lugar a esta materia altamente estructurada.
 
 —Un puto yonqui, eso es lo que eres.
 
@@ -421,7 +427,7 @@ Aynur se pone en pie. McCloskey. Ese apellido me suena a dentadura postiza cayen
 
 # La vieja y la asimina
 
-Sospecho que estoy soñando, pero, al contrario de lo que me ocurre con otros sueños más tontos y más sobados en los que me persiguen o vuelo o me caigo o voy desnudo por la calle, intuyo que este sueño está a estrenar. Me huele a nuevo. Sé que este sueño es la verdadera realidad, tan consistente que tendré que acostumbrarme a vivir en ella cuando no sea capaz de despertar. 
+Sospecho que estoy soñando, pero, al contrario de lo que me ocurre con otros sueños más tontos y más sobados en los que me persiguen o vuelo o me caigo o voy desnudo por la calle, intuyo que este sueño está a estrenar. Me huele a nuevo. Sé que este sueño es la verdadera realidad, tan consistente que tendré que acostumbrarme a vivir en ella cuando no sea capaz de despertar.
 
 No sé cómo el sueño me ha llevado a esta esquina, pero hay que ver cómo llueve, con qué insistencia y con qué desinterés, qué hermosura de lluvia, nunca hubo una lluvia más limpia. El pelo largo y cobrizo se me empapa y se oscurece, pierde la apariencia de paja vieja y adquiere cierto lustre con el peso brillante otorgado por el agua. Soy un chamán, un viejo hechicero a punto de indicar qué animales hay que sacrificar[:Una cabra, siempre es una cabra.] y qué piedra es la mejor[:La mediana con forma de riñón.] para depositar la magra ofrenda semanal de frutas y semillas[:Dos papayas y un saquito de maíz.].
 
@@ -446,7 +452,7 @@ Sacas el libro de debajo del colchón y te agarras a él como si fuese el pedazo
 > QUOTE
 El 24 de mayo de 1863, domingo, mi tío, el profesor Lidenbrock, volvió precipitadamente a su pequeña casa situada en el número 19 de Königstrasse, una de las calles más antiguas del barrio viejo de Hamburgo.
 
-Ojalá vivieses en Hamburgo, ojalá te llamases Axel en vez de Thibaut, ojalá tuvieses un tío llamado Otto Lidenbrock, ojalá tuvieses un amigo como Hans que te enseñase a cazar eideres y a hacer nudos resistentes que se deshacen con una sacudida. Todo esto existe en otra realidad más naranja y más caliente. Haces tanta fuerza con la mandíbula que te crujen las muelas. Ellos tan dentro y tú tan fuera. 
+Ojalá vivieses en Hamburgo, ojalá te llamases Axel en vez de Thibaut, ojalá tuvieses un tío llamado Otto Lidenbrock, ojalá tuvieses un amigo como Hans que te enseñase a cazar eideres y a hacer nudos resistentes que se deshacen con una sacudida. Todo esto existe en otra realidad más naranja y más caliente. Haces tanta fuerza con la mandíbula que te crujen las muelas. Ellos tan dentro y tú tan fuera.
 
 > QUOTE
 El profesor Lidenbrock parecía profundamente absorto. Su pensamiento dominante no le dejaba un momento de reposo: evidentemente durante su paseo había escrutado y analizado el asunto, había puesto en práctica todos los recursos de su imaginación, y volvía para aplicar alguna combinación nueva.
