@@ -55,11 +55,9 @@ Me subo el pañuelo para taparme la boca y la nariz. Miro hacia el horizonte bla
 
 # Mujer, maleta, terraplén
 
-En GitHub. Yay!
-
 He matado a una mujer. La he descuartizado y me he deshecho de ella metiéndola en una maleta grande, flexible, poliéster gris oscuro, que posteriormente he lanzado por un terraplén, en un lugar tan carente de detalles como una fotografía demasiado expuesta.
 
-Aguanto **la respiración** al vislumbrar algunos _elementos estomagantes_ y obstinadamente desconocidos. La mujer, la maleta, el terraplén. Mi cabeza viaja con billete de ida y vuelta. El terraplén, la maleta, la mujer. Solo puedo recordar su silueta a contraluz. Esa mujer era delgada y desesperanzadora como una vara de almendro en las manos inadecuadas.
+Aguanto **la respiración** al vislumbrar algunos *elementos estomagantes* y obstinadamente desconocidos. La mujer, la maleta, el terraplén. Mi cabeza viaja con billete de ida y vuelta. El terraplén, la maleta, la mujer. Solo puedo recordar su silueta a contraluz. Esa mujer era delgada y desesperanzadora como una vara de almendro en las manos inadecuadas.
 
 [Mi cabeza viaja con billete de ida y vuelta. El terraplén, la maleta, la mujer. Solo puedo recordar su silueta a contraluz. Esa mujer era delgada y desesperanzadora como una vara de almendro en las manos inadecuadas.]
 
