@@ -81,7 +81,7 @@ Inmediatamente el almidón empieza a ponerse pastoso y llega el hormigueo. Se es
 
 Ese recuerdo no era mío.
 
-****
+%%%
 
 La segunda, que el mecanismo mental de bloqueo es sorprendentemente eficaz, capaz de evitar todo recuerdo irritador durante mucho tiempo.
 
